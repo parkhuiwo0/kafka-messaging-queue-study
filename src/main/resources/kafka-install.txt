@@ -1,5 +1,11 @@
+1. 카프카 맥에서 설치하기
 brew install zookeeper
 brew install kafka
 
 brew services start zookeeper
 brew services start kafka
+
+2. 카프카 공식 자료
+
+(1) application.properties(yml) 설정 정보 공식 문서
+https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html
